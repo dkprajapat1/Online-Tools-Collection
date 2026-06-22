@@ -59,6 +59,3 @@ UtilityVerse was created to bring together frequently used productivity and util
 
 Built with Next.js and Tailwind CSS.
 
-### Built for Digital Heroes
-
-https://digitalheroesco.com
